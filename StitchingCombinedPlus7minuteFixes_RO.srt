@@ -58,7 +58,7 @@ Ne-au forțat să plecăm.
 
 14
 00:01:08,320 --> 00:01:10,599
-Am fost strâmutați în 1948.
+Am fost strămutați în 1948.
 
 15
 00:01:10,880 --> 00:01:12,439
@@ -204,7 +204,7 @@ Apoi, părinții mei au emigrat în Canada
 
 48
 00:02:43,280 --> 00:02:48,319
-deci e un adevărat mosaic geografic.
+deci e un adevărat mozaic geografic.
 
 49
 00:02:48,320 --> 00:02:51,679
@@ -318,7 +318,7 @@ un oftat.
 
 75
 00:04:26,600 --> 00:04:27,999
-Înăuntrul fiecărei dintre noi,
+Înăuntrul fiecăreia dintre noi,
 
 76
 00:04:28,320 --> 00:04:30,559
@@ -820,7 +820,6 @@ un fel de atașament,
 
 195
 00:10:14,840 --> 00:10:17,439
-)
 nu doar în sensul politic,
 
 196
@@ -940,7 +939,7 @@ broda singură propria 'thobe'
 222
 00:11:39,120 --> 00:11:41,559
 Cele care au
-brodat mai multe 'thobes'..
+brodat mai multe 'thobe'..
 
 223
 00:11:41,760 --> 00:11:44,119
@@ -966,7 +965,7 @@ Altă femeie mi-a oferit o 'thobe' drept cadou.
 
 228
 00:12:04,440 --> 00:12:07,119
-The 'King Thobe' is the wedding 'thobe',
+'Thobe Regală' e 'thobe' pentru nuntă,
 
 229
 00:12:07,120 --> 00:12:09,919
@@ -1504,7 +1503,7 @@ Obișnuiam să brodez în stil european
 354
 00:18:24,400 --> 00:18:25,959
 Eram mulțumită,
-dar nu p simțeam ca pe ceva personal
+dar nu o simțeam ca pe ceva personal
 
 355
 00:18:26,120 --> 00:18:27,479
@@ -1539,7 +1538,7 @@ motive și desene din thobe vechi
 
 362
 00:18:52,720 --> 00:18:54,199
-din perioada aceia de 100 de ani.
+din perioada aceea de 100 de ani.
 
 363
 00:18:54,280 --> 00:18:58,119
@@ -1650,7 +1649,7 @@ Nu am voie să merg în Ierusalim.
 
 388
 00:20:14,120 --> 00:20:17,719
-Dacă aflu că m-am dus,
+Dacă află că m-am dus,
 mă dau afară instantaneu
 
 389
@@ -1861,7 +1860,7 @@ Am părăsit Ierusalimul în 1948
 
 440
 00:26:00,960 --> 00:26:03,199
-și a venit direct în Liban, direct aici
+și am venit direct în Liban, direct aici
 
 441
 00:26:03,640 --> 00:26:05,839
@@ -1889,12 +1888,12 @@ Sunt unul dintre cei foarte timpurii.
 
 447
 00:26:19,920 --> 00:26:23,279
-În primul rând, am doar
-a lucrat în broderie la INAASH,
+În principal am lucrat
+doar în broderie la INAASH,
 
 448
 00:26:23,360 --> 00:26:25,959
-și asta mai fac,
+și asta încă fac,
 
 449
 00:26:25,960 --> 00:26:27,079
@@ -1902,7 +1901,7 @@ asta e treaba mea.
 
 450
 00:26:27,480 --> 00:26:28,719
-Si asta e.
+Şi asta e.
 
 451
 00:26:28,880 --> 00:26:31,079
@@ -1998,7 +1997,7 @@ mame, femei in vârstă
 472
 00:27:39,640 --> 00:27:42,719
 persoane care aveau piese
-acasă, care avea „thobs”
+acasă, care aveau „thobe”
 
 473
 00:27:42,720 --> 00:27:44,039
@@ -2114,7 +2113,7 @@ te învață totul.
 499
 00:28:41,120 --> 00:28:44,519
 Îmi amintesc și femeile din sat
-care venea în Ierusalim.
+care veneau în Ierusalim.
 
 500
 00:28:44,760 --> 00:28:47,479
@@ -2306,7 +2305,7 @@ Ca și toți ceilalți, am crezut că
 
 545
 00:30:44,520 --> 00:30:46,639
-ar fi o chestiune de 15 zile si ne-am intoarce.
+ar fi o chestiune de 15 zile şi ne-am întoarce.
 
 546
 00:30:48,720 --> 00:30:49,439
@@ -2322,7 +2321,7 @@ Tatăl meu a plecat la Nablus
 
 549
 00:30:53,800 --> 00:30:55,439
-si ne-am dus
+şi ne-am dus
 
 550
 00:30:56,920 --> 00:30:58,279
@@ -2435,7 +2434,7 @@ așa că m-am născut în Amman,
 
 576
 00:32:33,440 --> 00:32:36,279
-pentru că mama a vrut\
+pentru că mama a vrut
 să nască lângă familia ei.
 
 577
@@ -2737,7 +2736,7 @@ Ea întreba unde au fost
 
 647
 00:35:47,800 --> 00:35:50,399
-Dacă nu-i credea de ei,
+Dacă nu-i credea,
 îi lua la rând
 
 648
@@ -2747,7 +2746,7 @@ dacă au gust de sare,
 
 649
 00:35:53,480 --> 00:35:55,239
-și le dădea o mamă o bătaie.
+și le dădea o mamă de bătaie.
 
 650
 00:35:56,480 --> 00:36:00,799
@@ -2923,7 +2922,7 @@ Navigarea mea în portul Jaffa
 
 690
 00:38:11,800 --> 00:38:15,039
-Oh, pentru zilele de pescuit din Jaffa
+Oh, pentru zilele de pescuit din Jaffa ]
 
 691
 00:38:50,200 --> 00:38:52,279
@@ -2954,7 +2953,7 @@ am venit în Tabăra Mar Elias
 
 697
 00:39:08,840 --> 00:39:11,239
-si inca suntem aici,
+şi încă suntem aici,
 în Tabăra Mar Elias.
 
 698
@@ -3359,7 +3358,7 @@ nu se va stinge și nu va dispărea niciodată, niciodată.
 
 793
 00:44:02,680 --> 00:44:04,719
-și ne vom scufunda în...î
+și ne vom scufunda în...]
 
 794
 00:44:04,720 --> 00:44:06,959
@@ -3658,7 +3657,7 @@ Una dintre melodiile pe care le-am scris
 
 861
 00:48:38,880 --> 00:48:41,319
-Este un cântec despre „thobe” palestinian.
+Este un cântec despre „thobe” palestiniană.
 
 862
 00:48:41,680 --> 00:48:46,599
@@ -3698,15 +3697,15 @@ Despre oamenii din Haifa și Birzeit
 
 871
 00:49:25,920 --> 00:49:28,799
-Când m-am întors acasă, l-am împachetat
+Când m-am întors acasă, am împachetat-o
 
 872
 00:49:30,120 --> 00:49:34,159
-În dulap l-am ascuns
+În dulap am ascuns-o
 
 873
 00:49:34,400 --> 00:49:38,639
-L-am ascuns și îmi doresc
+Am ascuns-o și îmi doresc
 
 874
 00:49:40,480 --> 00:49:43,439
@@ -3723,13 +3722,12 @@ brodat de la Beer el-Sabih.
 
 877
 00:50:12,440 --> 00:50:14,839
-Ea întruchipează multe povești, I
+Întruchipează multe povești,
 si multe faze
 
 878
 00:50:15,520 --> 00:50:18,119
-curge din
-de la o fază la alta
+curge dintr-o fază într-alta
 
 879
 00:50:18,480 --> 00:50:20,079
@@ -3750,7 +3748,7 @@ care a avut un impact major asupra vieții mele...
 883
 00:50:26,320 --> 00:50:30,119
 După multă vreme în diaspora,
-si mai multe mutări...
+şi mai multe mutări...
 
 884
 00:50:30,600 --> 00:50:31,799
@@ -4175,7 +4173,7 @@ Harvard și Rutgers
 
 981
 00:55:49,640 --> 00:55:51,439
-Sunt psihoterapeut
+Sunt psihoterapeută
 
 982
 00:55:51,440 --> 00:55:58,039
@@ -4249,7 +4247,7 @@ Am avut și o rochie brodată.
 998
 00:56:42,160 --> 00:56:43,919
 Pentru mine, broderia
-reprezintă identitatae în sensul pozitiv.
+reprezintă identitatea în sensul pozitiv.
 
 999
 00:56:43,920 --> 00:56:47,519
@@ -4371,7 +4369,7 @@ poate să treacă prin toate aceste lucruri,
 
 1026
 00:58:10,800 --> 00:58:13,439
-dar, în ciuda lor, era
+dar, în ciuda lor, a fost
 capabilă să producă această piesă.
 
 1027
@@ -4542,7 +4540,7 @@ dar motivul principal al întoarcerii mele
 
 1064
 01:00:33,160 --> 01:00:35,359
-a fost interesul meu 2
+a fost interesul meu
 în arhitectura palestiniană
 
 1065
@@ -4573,7 +4571,7 @@ M-am îndrăgostit de Palestina,
 
 1071
 01:00:52,480 --> 01:00:56,599
-și ca urmare am decis să o accept
+și ca urmare am decis să accept
 un post didactic la Universitatea Birzeit.
 
 1072
@@ -4623,7 +4621,7 @@ daca femeia purta o "'thobe"?!
 
 1082
 01:01:28,480 --> 01:01:31,119
-Mai târziu am înțeles că era vorba
+Mai târziu am înțeles că era vorba de
 distincţia dintre orășeni şi ţărani.
 
 1083
@@ -4660,7 +4658,7 @@ o formă timpurie de artă abstractă
 
 1090
 01:01:59,360 --> 01:02:02,159
-se vorbeste de artisti
+se vorbeste de artişti
 precum Mondrian sau alţii.
 
 1091
@@ -4722,7 +4720,7 @@ este o luptă pentru identitatea locului.
 1103
 01:02:45,400 --> 01:02:49,799
 Au fost multe lucruri pe care palestinienii
-nu au putut să ia cu ei în diaspora
+nu au putut să le ia cu ei în diaspora
 
 1104
 01:02:50,000 --> 01:02:53,239
@@ -4860,7 +4858,7 @@ care par aproape brodate,
 
 1134
 01:05:01,560 --> 01:05:03,679
-brodat cu o pensulă
+brodate cu o pensulă
 în loc de ac
 
 1135
@@ -4996,7 +4994,7 @@ ei cheamă poliția
 
 1164
 01:06:42,040 --> 01:06:44,079
-și sunt amenințată cu expulzare...
+și sunt amenințată cu expulzarea...
 
 1165
 01:07:14,800 --> 01:07:19,319
@@ -5023,7 +5021,7 @@ pentru că ușile erau deschise
 1170
 01:07:33,040 --> 01:07:37,679
 ca cei care construiesc
-zidul apartheidului și așezările,
+zidul apartheidului și coloniile,
 
 1171
 01:07:37,680 --> 01:07:40,479
